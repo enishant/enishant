@@ -1,4 +1,4 @@
-👋 Hi, I’m [Nishant Vaity](https://github.com/enishant/)
+👋 Hi, I’m [Nishant Vaity](https://www.nishantvaity.com/)
 
 🌱 I am passionate about the technologies I use and always eager to share & learn more from that passion.
 
