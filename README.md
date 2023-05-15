@@ -7,12 +7,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=enishant&show_icons=true" alt="enishant" />
 
 👀 I’m currently learning ... 
-- Laravel
-- NodeJS
-- graphQL
 - Lumberjack
 - Bedrock
-- Kafka 
+- Python for DataScience
 
 💞️ To collaborate with me connect at [LinkedIn](https://www.linkedin.com/in/enishant/)
 
